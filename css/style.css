@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/80.jpg");
+}
+
+h1,
+h2,
+h3,
+p{
+	font-family: Arial;
+}
+
+h1,
+h3{
+	font-size: 22px;
+}
+
+p{
+	font-size: 18px;
+}
+.sign{
+	width:80%;
+	height: 60%;
+}
+
+
+.badGuess,
+.blank,
+.word,
+.game{
+	text-align: center;
+    margin: auto;
+    width: 30%;
+    border: 5px solid #73AD21;
+    padding: 10px;
+    background-color: #FFF;
+}
